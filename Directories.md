@@ -34,5 +34,5 @@
 | jd\core\process\layouter\visitor\                            |          5   |      23,311   |            |
 | jd\core\process\writer\                                      |          9   |      83,294   |            |
 | jd\core\process\writer\visitor\                              |          1   |      42,694   |            |
-| jd\core\util\                                                |         14   |      20,867   |        1   |
-| **Total**                                                    |      **395** | **1,263,042** |      **2** |
+| jd\core\util\                                                |         14   |      20,867   |        2   |
+| **Total**                                                    |      **395** | **1,263,042** |      **3** |
