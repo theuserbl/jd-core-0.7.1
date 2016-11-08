@@ -4,7 +4,7 @@ Inofficial recreation of jd-core 0.7.1
 The original JD-GUI https://github.com/java-decompiler/jd-gui includes the jd-core, which exists as additional file https://github.com/java-decompiler/mvn-repo/blob/master/jd/jd-core/0.7.1/jd-core-0.7.1.jar
 Like JD-GUI, the JD-Core is licensed under the GPLv3 https://github.com/java-decompiler/jd-gui/blob/master/NOTICE
 But unlike JD-GUI, the source code is not published. But the author said, it is allowed to decompile it.
-For more info also look at https://github.com/helios-decompiler/Helios/issues/2
+For more info also look at https://github.com/java-decompiler/jd-gui/issues/106
 
 JD-Core was compiled with the eclipse compiler ecj. To see, if it was recreated right, it is helpful to see, if the created binary of the source is binary-identical to the original classes.
 
