@@ -14,7 +14,7 @@
 | jd\core\model\layout\block\                                  |         48   |      38,994   |            |
 | jd\core\model\layout\section\                                |          1   |       1,152   |            |
 | jd\core\model\reference\                                     |          2   |       2,582   |            |
-| jd\core\preferences\                                         |          1   |         703   |            |
+| jd\core\preferences\                                         |          1   |         703   | ALL DONE   |
 | jd\core\printer\                                             |          2   |      12,402   |        1   |
 | jd\core\process\                                             |          1   |       2,412   |            |
 | jd\core\process\analyzer\classfile\                          |          6   |      83,829   |            |
@@ -35,4 +35,4 @@
 | jd\core\process\writer\                                      |          9   |      83,294   |            |
 | jd\core\process\writer\visitor\                              |          1   |      42,694   |            |
 | jd\core\util\                                                |         14   |      20,867   |        2   |
-| **Total**                                                    |      **395** | **1,263,042** |      **6** |
+| **Total**                                                    |      **395** | **1,263,042** |      **7** |
