@@ -7,9 +7,9 @@ package jd.core.model.classfile;
 
 import jd.core.model.classfile.attribute.Annotation;
 import jd.core.model.classfile.attribute.Attribute;
+import jd.core.model.classfile.attribute.AttributeConstants;
 import jd.core.model.classfile.attribute.AttributeRuntimeAnnotations;
 import jd.core.model.classfile.attribute.AttributeSignature;
-import jd.core.model.classfile.attribute.AttributeConstants;
 
 
 public class Base
