@@ -2,7 +2,7 @@
 | ------------------------------------------------------------ | -----------: | ------------: | ---------: |
 | jd/core/                                                     |          2   |         700   |        1   |
 | jd/core/loader/                                              |          2   |         776   | ALL DONE   |
-| jd/core/model/classfile/                                     |         10   |      37,514   |        1   |
+| jd/core/model/classfile/                                     |         10   |      37,514   |        2   |
 | jd/core/model/classfile/accessor/                            |          7   |       4,557   | ALL DONE   |
 | jd/core/model/classfile/attribute/                           |         30   |      18,005   | ALL DONE   |
 | jd/core/model/classfile/constant/                            |         14   |       8,213   | ALL DONE   |
@@ -35,4 +35,4 @@
 | jd/core/process/writer/                                      |          9   |      83,294   |            |
 | jd/core/process/writer/visitor/                              |          1   |      42,694   |            |
 | jd/core/util/                                                |         14   |      20,867   |        2   |
-| **Total**                                                    |      **395** | **1,263,042** |     **59** |
+| **Total**                                                    |      **395** | **1,263,042** |     **60** |
