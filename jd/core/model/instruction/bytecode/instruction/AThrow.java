@@ -16,7 +16,7 @@ public class AThrow
 
     public AThrow(int opcode, int offset, int lineNumber, Instruction value)
     {
-    super(opcode, offset, lineNumber);
+        super(opcode, offset, lineNumber);
         this.value = value;
     }
 
