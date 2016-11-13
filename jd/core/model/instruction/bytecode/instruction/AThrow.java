@@ -11,7 +11,7 @@ import jd.core.model.classfile.LocalVariables;
 
 public class AThrow
   extends Instruction
-    {
+{
     public Instruction value;
 
     public AThrow(int opcode, int offset, int lineNumber, Instruction value)
