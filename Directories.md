@@ -7,7 +7,7 @@
 | jd/core/model/classfile/attribute/                           |         30   |      18,005   | ALL DONE   |
 | jd/core/model/classfile/constant/                            |         14   |       8,213   | ALL DONE   |
 | jd/core/model/instruction/bytecode/                          |          1   |      15,807   |            |
-| jd/core/model/instruction/bytecode/instruction/              |         75   |      80,713   |            |
+| jd/core/model/instruction/bytecode/instruction/              |         75   |      80,713   |       21   |
 | jd/core/model/instruction/bytecode/instruction/attribute/    |          1   |         347   |            |
 | jd/core/model/instruction/fast/                              |          1   |       1,792   |            |
 | jd/core/model/instruction/fast/instruction/                  |         13   |      15,493   |            |
@@ -35,4 +35,4 @@
 | jd/core/process/writer/                                      |          9   |      83,294   |            |
 | jd/core/process/writer/visitor/                              |          1   |      42,694   |            |
 | jd/core/util/                                                |         14   |      20,867   |        2   |
-| **Total**                                                    |      **395** | **1,263,042** |     **60** |
+| **Total**                                                    |      **395** | **1,263,042** |     **81** |
