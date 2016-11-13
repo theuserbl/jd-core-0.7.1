@@ -27,3 +27,8 @@ https://github.com/theuserbl/jd-core-0.7.1/blob/master/jd/core/model/classfile/a
 
 **UtilConstants**<br/>
 https://github.com/theuserbl/jd-core-0.7.1/blob/master/jd/core/util/UtilConstants.java
+<br/>
+<br/>
+<br/>
+Possibly uses constants:<br/>
+https://github.com/theuserbl/jd-core-0.7.1/blob/master/jd/core/model/instruction/bytecode/instruction/CheckCast.java
