@@ -24,10 +24,10 @@
 | jd/core/process/analyzer/instruction/fast/visitor/           |          4   |      36,850   |            |
 | jd/core/process/analyzer/util/                               |          2   |       4,671   |            |
 | jd/core/process/analyzer/variable/                           |          2   |       5,537   |            |
-| jd/core/process/deserializer/                                |          4   |      19,577   |            |
+| jd/core/process/deserializer/                                |          4   |      19,577   |        2   |
 | jd/core/process/layouter/                                    |          5   |      74,021   |            |
 | jd/core/process/layouter/visitor/                            |          5   |      23,311   |            |
 | jd/core/process/writer/                                      |          9   |      83,294   |            |
 | jd/core/process/writer/visitor/                              |          1   |      42,694   |            |
 | jd/core/util/                                                |         14   |      20,867   |        2   |
-| **Total**                                                    |      **341** | **1,230,788** |     **27** |
+| **Total**                                                    |      **341** | **1,230,788** |     **29** |
