@@ -31,4 +31,5 @@ https://github.com/theuserbl/jd-core-0.7.1/blob/master/jd/core/util/UtilConstant
 <br/>
 <br/>
 Possibly uses constants:<br/>
-https://github.com/theuserbl/jd-core-0.7.1/blob/master/jd/core/model/instruction/bytecode/instruction/CheckCast.java
+https://github.com/theuserbl/jd-core-0.7.1/blob/master/jd/core/model/instruction/bytecode/instruction/CheckCast.java<br/>
+https://github.com/theuserbl/jd-core-0.7.1/blob/master/jd/core/model/instruction/bytecode/instruction/ConvertInstruction.java
